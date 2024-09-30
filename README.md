@@ -30,13 +30,6 @@ I am a Fullstack developer with extensive experience in building websites and ap
 
 ![Moshe Ogalbo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MosheOgalbo&show_icons=true&theme=radical)
 
-## 🔧 Notable Projects
-
-### [Project One](https://github.com/MosheOgalbo/project1)
-This project is a feature-rich application that builds an intuitive user interface with React and a strong database with Node.js.
-
-### [Project Two](https://github.com/MosheOgalbo/project2)
-A Flask-based data analysis application that combines a modern user interface with a flexible API.
 
 ## 📫 How to Reach Me
 
