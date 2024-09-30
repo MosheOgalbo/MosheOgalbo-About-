@@ -33,9 +33,9 @@ I am a Fullstack developer with extensive experience in building websites and ap
 
 ## 📫 How to Reach Me
 
-- 📧 **Email:** [moshe@example.com](mailto:moshe@example.com)
-- 💼 **LinkedIn:** [linkedin.com/in/mosheogalbo](https://linkedin.com/in/mosheogalbo)
-- 🐦 **Twitter:** [@mosheogalbo](https://twitter.com/mosheogalbo)
+- 📧 **Email:** [moshe@example.com](mosesogalbo@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/mosheogalbo](https://linkedin.com/in/mosheogalbo](http://linkedin.com/in/moshe-ogalbo-234661142)
+- 🐦 **Twitter:** [@mosheogalbo](https://twitter.com/MosheOgalbo)
 
 ## 📝 Blog
 
