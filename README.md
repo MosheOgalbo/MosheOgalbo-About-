@@ -33,7 +33,7 @@ I am a Fullstack developer with extensive experience in building websites and ap
 
 ## 📫 How to Reach Me
 
-- 📧 **Email:** [moshe@example.com](mosesogalbo@gmail.com)
+- 📧 **Email:** [mosesogalbo@gmail.com](mosesogalbo@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/mosheogalbo](https://linkedin.com/in/moshe-ogalbo-234661142)
 - 🐦 **Twitter:** [@mosheogalbo](https://twitter.com/MosheOgalbo)
 
